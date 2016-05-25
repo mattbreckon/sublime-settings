@@ -2,8 +2,12 @@
   "installed_packages": [
     "AutoFileName",
     "Babel",
+    "BracketHighlighter",
     "Emmet",
     "GitGutter",
+    "Emmet",
+    "JsFormat",
+    "Modific",
     "Package Control",
     "Sass",
     "SideBarEnhancements",

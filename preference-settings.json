@@ -1,6 +1,8 @@
 {
   "theme": "Soda Dark.sublime-theme",
   "color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
 
   "font_size": 20.0,
   "rulers": [80],
@@ -12,6 +14,10 @@
   "draw_white_space": "all",
   "trim_trailing_white_space_on_save": true,
   "ensure_newline_at_eof_on_save": true,
+
+  "highlight_line": true,
+  "fade_fold_buttons": false,
+  "scroll_past_end": true,
 
   "show_full_path": true,
   "highlight_modified_tabs": true,
