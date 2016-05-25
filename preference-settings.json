@@ -22,6 +22,7 @@
   "show_full_path": true,
   "highlight_modified_tabs": true,
   "bold_folder_labels": true,
+  "show_minimap": false,
 
   "folder_exclude_patterns": [
     "node_modules",
@@ -35,5 +36,11 @@
     "dist"
   ],
 
-  "ignored_packages": ["Vintage"]
+  "ignored_packages": ["Vintage"],
+
+  /* REMOVE: Testing these preferences */
+  "indent_guide_options": [
+    "draw_normal",
+    "draw_active"
+  ]
 }
